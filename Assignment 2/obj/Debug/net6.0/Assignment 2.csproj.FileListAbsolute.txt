@@ -1,0 +1,15 @@
+D:\Practicals\DotNet\Assignment 2\bin\Debug\net6.0\Assignment 2.exe
+D:\Practicals\DotNet\Assignment 2\bin\Debug\net6.0\Assignment 2.deps.json
+D:\Practicals\DotNet\Assignment 2\bin\Debug\net6.0\Assignment 2.runtimeconfig.json
+D:\Practicals\DotNet\Assignment 2\bin\Debug\net6.0\Assignment 2.dll
+D:\Practicals\DotNet\Assignment 2\bin\Debug\net6.0\ref\Assignment 2.dll
+D:\Practicals\DotNet\Assignment 2\bin\Debug\net6.0\Assignment 2.pdb
+D:\Practicals\DotNet\Assignment 2\obj\Debug\net6.0\Assignment 2.csproj.AssemblyReference.cache
+D:\Practicals\DotNet\Assignment 2\obj\Debug\net6.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practicals\DotNet\Assignment 2\obj\Debug\net6.0\Assignment 2.AssemblyInfoInputs.cache
+D:\Practicals\DotNet\Assignment 2\obj\Debug\net6.0\Assignment 2.AssemblyInfo.cs
+D:\Practicals\DotNet\Assignment 2\obj\Debug\net6.0\Assignment 2.csproj.CoreCompileInputs.cache
+D:\Practicals\DotNet\Assignment 2\obj\Debug\net6.0\Assignment 2.dll
+D:\Practicals\DotNet\Assignment 2\obj\Debug\net6.0\ref\Assignment 2.dll
+D:\Practicals\DotNet\Assignment 2\obj\Debug\net6.0\Assignment 2.pdb
+D:\Practicals\DotNet\Assignment 2\obj\Debug\net6.0\Assignment 2.genruntimeconfig.cache
