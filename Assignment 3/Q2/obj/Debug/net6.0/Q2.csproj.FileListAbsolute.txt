@@ -1,0 +1,15 @@
+/home/gaurav/Documents/Practicals/DotNet/Assignment 3/Q2/bin/Debug/net6.0/Q2
+/home/gaurav/Documents/Practicals/DotNet/Assignment 3/Q2/bin/Debug/net6.0/Q2.deps.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 3/Q2/bin/Debug/net6.0/Q2.runtimeconfig.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 3/Q2/bin/Debug/net6.0/Q2.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 3/Q2/bin/Debug/net6.0/ref/Q2.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 3/Q2/bin/Debug/net6.0/Q2.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 3/Q2/obj/Debug/net6.0/Q2.csproj.AssemblyReference.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 3/Q2/obj/Debug/net6.0/Q2.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaurav/Documents/Practicals/DotNet/Assignment 3/Q2/obj/Debug/net6.0/Q2.AssemblyInfoInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 3/Q2/obj/Debug/net6.0/Q2.AssemblyInfo.cs
+/home/gaurav/Documents/Practicals/DotNet/Assignment 3/Q2/obj/Debug/net6.0/Q2.csproj.CoreCompileInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 3/Q2/obj/Debug/net6.0/Q2.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 3/Q2/obj/Debug/net6.0/ref/Q2.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 3/Q2/obj/Debug/net6.0/Q2.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 3/Q2/obj/Debug/net6.0/Q2.genruntimeconfig.cache
