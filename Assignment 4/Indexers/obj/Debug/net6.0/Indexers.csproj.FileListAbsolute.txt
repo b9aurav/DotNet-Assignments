@@ -1,0 +1,15 @@
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Indexers/bin/Debug/net6.0/Indexers
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Indexers/bin/Debug/net6.0/Indexers.deps.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Indexers/bin/Debug/net6.0/Indexers.runtimeconfig.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Indexers/bin/Debug/net6.0/Indexers.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Indexers/bin/Debug/net6.0/ref/Indexers.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Indexers/bin/Debug/net6.0/Indexers.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Indexers/obj/Debug/net6.0/Indexers.csproj.AssemblyReference.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Indexers/obj/Debug/net6.0/Indexers.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Indexers/obj/Debug/net6.0/Indexers.AssemblyInfoInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Indexers/obj/Debug/net6.0/Indexers.AssemblyInfo.cs
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Indexers/obj/Debug/net6.0/Indexers.csproj.CoreCompileInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Indexers/obj/Debug/net6.0/Indexers.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Indexers/obj/Debug/net6.0/ref/Indexers.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Indexers/obj/Debug/net6.0/Indexers.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Indexers/obj/Debug/net6.0/Indexers.genruntimeconfig.cache

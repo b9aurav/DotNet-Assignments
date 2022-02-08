@@ -1,0 +1,30 @@
+/home/gaurav/Documents/Practicals/DotNet/Extras/bin/Debug/net6.0/Extras
+/home/gaurav/Documents/Practicals/DotNet/Extras/bin/Debug/net6.0/Extras.deps.json
+/home/gaurav/Documents/Practicals/DotNet/Extras/bin/Debug/net6.0/Extras.runtimeconfig.json
+/home/gaurav/Documents/Practicals/DotNet/Extras/bin/Debug/net6.0/Extras.dll
+/home/gaurav/Documents/Practicals/DotNet/Extras/bin/Debug/net6.0/ref/Extras.dll
+/home/gaurav/Documents/Practicals/DotNet/Extras/bin/Debug/net6.0/Extras.pdb
+/home/gaurav/Documents/Practicals/DotNet/Extras/obj/Debug/net6.0/Extras.csproj.AssemblyReference.cache
+/home/gaurav/Documents/Practicals/DotNet/Extras/obj/Debug/net6.0/Extras.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaurav/Documents/Practicals/DotNet/Extras/obj/Debug/net6.0/Extras.AssemblyInfoInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Extras/obj/Debug/net6.0/Extras.AssemblyInfo.cs
+/home/gaurav/Documents/Practicals/DotNet/Extras/obj/Debug/net6.0/Extras.csproj.CoreCompileInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Extras/obj/Debug/net6.0/Extras.dll
+/home/gaurav/Documents/Practicals/DotNet/Extras/obj/Debug/net6.0/ref/Extras.dll
+/home/gaurav/Documents/Practicals/DotNet/Extras/obj/Debug/net6.0/Extras.pdb
+/home/gaurav/Documents/Practicals/DotNet/Extras/obj/Debug/net6.0/Extras.genruntimeconfig.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Extras/bin/Debug/net6.0/Extras
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Extras/bin/Debug/net6.0/Extras.deps.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Extras/bin/Debug/net6.0/Extras.runtimeconfig.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Extras/bin/Debug/net6.0/Extras.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Extras/bin/Debug/net6.0/ref/Extras.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Extras/bin/Debug/net6.0/Extras.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Extras/obj/Debug/net6.0/Extras.csproj.AssemblyReference.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Extras/obj/Debug/net6.0/Extras.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Extras/obj/Debug/net6.0/Extras.AssemblyInfoInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Extras/obj/Debug/net6.0/Extras.AssemblyInfo.cs
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Extras/obj/Debug/net6.0/Extras.csproj.CoreCompileInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Extras/obj/Debug/net6.0/Extras.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Extras/obj/Debug/net6.0/ref/Extras.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Extras/obj/Debug/net6.0/Extras.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Extras/obj/Debug/net6.0/Extras.genruntimeconfig.cache

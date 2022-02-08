@@ -1,0 +1,15 @@
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Properties/bin/Debug/net6.0/Properties
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Properties/bin/Debug/net6.0/Properties.deps.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Properties/bin/Debug/net6.0/Properties.runtimeconfig.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Properties/bin/Debug/net6.0/Properties.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Properties/bin/Debug/net6.0/ref/Properties.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Properties/bin/Debug/net6.0/Properties.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Properties/obj/Debug/net6.0/Properties.csproj.AssemblyReference.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Properties/obj/Debug/net6.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Properties/obj/Debug/net6.0/Properties.AssemblyInfoInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Properties/obj/Debug/net6.0/Properties.AssemblyInfo.cs
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Properties/obj/Debug/net6.0/Properties.csproj.CoreCompileInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Properties/obj/Debug/net6.0/Properties.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Properties/obj/Debug/net6.0/ref/Properties.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Properties/obj/Debug/net6.0/Properties.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Properties/obj/Debug/net6.0/Properties.genruntimeconfig.cache

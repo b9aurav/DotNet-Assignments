@@ -1,0 +1,15 @@
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Employee/bin/Debug/net6.0/Employee
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Employee/bin/Debug/net6.0/Employee.deps.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Employee/bin/Debug/net6.0/Employee.runtimeconfig.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Employee/bin/Debug/net6.0/Employee.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Employee/bin/Debug/net6.0/ref/Employee.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Employee/bin/Debug/net6.0/Employee.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Employee/obj/Debug/net6.0/Employee.csproj.AssemblyReference.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Employee/obj/Debug/net6.0/Employee.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Employee/obj/Debug/net6.0/Employee.AssemblyInfoInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Employee/obj/Debug/net6.0/Employee.AssemblyInfo.cs
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Employee/obj/Debug/net6.0/Employee.csproj.CoreCompileInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Employee/obj/Debug/net6.0/Employee.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Employee/obj/Debug/net6.0/ref/Employee.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Employee/obj/Debug/net6.0/Employee.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 4/Employee/obj/Debug/net6.0/Employee.genruntimeconfig.cache
