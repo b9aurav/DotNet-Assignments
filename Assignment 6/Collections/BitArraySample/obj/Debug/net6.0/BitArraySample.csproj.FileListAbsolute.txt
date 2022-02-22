@@ -1,0 +1,15 @@
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/BitArraySample/bin/Debug/net6.0/BitArraySample
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/BitArraySample/bin/Debug/net6.0/BitArraySample.deps.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/BitArraySample/bin/Debug/net6.0/BitArraySample.runtimeconfig.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/BitArraySample/bin/Debug/net6.0/BitArraySample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/BitArraySample/bin/Debug/net6.0/ref/BitArraySample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/BitArraySample/bin/Debug/net6.0/BitArraySample.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/BitArraySample/obj/Debug/net6.0/BitArraySample.csproj.AssemblyReference.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/BitArraySample/obj/Debug/net6.0/BitArraySample.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/BitArraySample/obj/Debug/net6.0/BitArraySample.AssemblyInfoInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/BitArraySample/obj/Debug/net6.0/BitArraySample.AssemblyInfo.cs
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/BitArraySample/obj/Debug/net6.0/BitArraySample.csproj.CoreCompileInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/BitArraySample/obj/Debug/net6.0/BitArraySample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/BitArraySample/obj/Debug/net6.0/ref/BitArraySample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/BitArraySample/obj/Debug/net6.0/BitArraySample.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/BitArraySample/obj/Debug/net6.0/BitArraySample.genruntimeconfig.cache

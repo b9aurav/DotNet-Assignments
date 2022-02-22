@@ -1,0 +1,15 @@
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LinkedListSample/obj/Debug/net6.0/LinkedListSample.csproj.AssemblyReference.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LinkedListSample/obj/Debug/net6.0/LinkedListSample.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LinkedListSample/obj/Debug/net6.0/LinkedListSample.AssemblyInfoInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LinkedListSample/obj/Debug/net6.0/LinkedListSample.AssemblyInfo.cs
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LinkedListSample/obj/Debug/net6.0/LinkedListSample.csproj.CoreCompileInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LinkedListSample/bin/Debug/net6.0/LinkedListSample
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LinkedListSample/bin/Debug/net6.0/LinkedListSample.deps.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LinkedListSample/bin/Debug/net6.0/LinkedListSample.runtimeconfig.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LinkedListSample/bin/Debug/net6.0/LinkedListSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LinkedListSample/bin/Debug/net6.0/ref/LinkedListSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LinkedListSample/bin/Debug/net6.0/LinkedListSample.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LinkedListSample/obj/Debug/net6.0/LinkedListSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LinkedListSample/obj/Debug/net6.0/ref/LinkedListSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LinkedListSample/obj/Debug/net6.0/LinkedListSample.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LinkedListSample/obj/Debug/net6.0/LinkedListSample.genruntimeconfig.cache

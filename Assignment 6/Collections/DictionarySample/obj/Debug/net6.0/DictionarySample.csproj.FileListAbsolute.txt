@@ -1,0 +1,15 @@
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/DictionarySample/bin/Debug/net6.0/DictionarySample
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/DictionarySample/bin/Debug/net6.0/DictionarySample.deps.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/DictionarySample/bin/Debug/net6.0/DictionarySample.runtimeconfig.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/DictionarySample/bin/Debug/net6.0/DictionarySample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/DictionarySample/bin/Debug/net6.0/ref/DictionarySample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/DictionarySample/bin/Debug/net6.0/DictionarySample.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/DictionarySample/obj/Debug/net6.0/DictionarySample.csproj.AssemblyReference.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/DictionarySample/obj/Debug/net6.0/DictionarySample.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/DictionarySample/obj/Debug/net6.0/DictionarySample.AssemblyInfoInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/DictionarySample/obj/Debug/net6.0/DictionarySample.AssemblyInfo.cs
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/DictionarySample/obj/Debug/net6.0/DictionarySample.csproj.CoreCompileInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/DictionarySample/obj/Debug/net6.0/DictionarySample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/DictionarySample/obj/Debug/net6.0/ref/DictionarySample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/DictionarySample/obj/Debug/net6.0/DictionarySample.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/DictionarySample/obj/Debug/net6.0/DictionarySample.genruntimeconfig.cache

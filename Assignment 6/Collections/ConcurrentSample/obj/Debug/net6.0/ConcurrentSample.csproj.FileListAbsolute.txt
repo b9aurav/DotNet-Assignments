@@ -1,0 +1,15 @@
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ConcurrentSample/bin/Debug/net6.0/ConcurrentSample
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ConcurrentSample/bin/Debug/net6.0/ConcurrentSample.deps.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ConcurrentSample/bin/Debug/net6.0/ConcurrentSample.runtimeconfig.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ConcurrentSample/bin/Debug/net6.0/ConcurrentSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ConcurrentSample/bin/Debug/net6.0/ref/ConcurrentSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ConcurrentSample/bin/Debug/net6.0/ConcurrentSample.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ConcurrentSample/obj/Debug/net6.0/ConcurrentSample.csproj.AssemblyReference.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ConcurrentSample/obj/Debug/net6.0/ConcurrentSample.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ConcurrentSample/obj/Debug/net6.0/ConcurrentSample.AssemblyInfoInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ConcurrentSample/obj/Debug/net6.0/ConcurrentSample.AssemblyInfo.cs
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ConcurrentSample/obj/Debug/net6.0/ConcurrentSample.csproj.CoreCompileInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ConcurrentSample/obj/Debug/net6.0/ConcurrentSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ConcurrentSample/obj/Debug/net6.0/ref/ConcurrentSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ConcurrentSample/obj/Debug/net6.0/ConcurrentSample.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ConcurrentSample/obj/Debug/net6.0/ConcurrentSample.genruntimeconfig.cache
