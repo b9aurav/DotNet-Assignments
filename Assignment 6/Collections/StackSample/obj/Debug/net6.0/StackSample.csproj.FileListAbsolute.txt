@@ -1,0 +1,15 @@
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/StackSample/bin/Debug/net6.0/StackSample
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/StackSample/bin/Debug/net6.0/StackSample.deps.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/StackSample/bin/Debug/net6.0/StackSample.runtimeconfig.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/StackSample/bin/Debug/net6.0/StackSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/StackSample/bin/Debug/net6.0/ref/StackSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/StackSample/bin/Debug/net6.0/StackSample.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/StackSample/obj/Debug/net6.0/StackSample.csproj.AssemblyReference.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/StackSample/obj/Debug/net6.0/StackSample.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/StackSample/obj/Debug/net6.0/StackSample.AssemblyInfoInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/StackSample/obj/Debug/net6.0/StackSample.AssemblyInfo.cs
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/StackSample/obj/Debug/net6.0/StackSample.csproj.CoreCompileInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/StackSample/obj/Debug/net6.0/StackSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/StackSample/obj/Debug/net6.0/ref/StackSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/StackSample/obj/Debug/net6.0/StackSample.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/StackSample/obj/Debug/net6.0/StackSample.genruntimeconfig.cache
