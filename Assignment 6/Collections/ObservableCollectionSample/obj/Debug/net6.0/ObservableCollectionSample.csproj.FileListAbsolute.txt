@@ -1,0 +1,15 @@
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ObservableCollectionSample/bin/Debug/net6.0/ObservableCollectionSample
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ObservableCollectionSample/bin/Debug/net6.0/ObservableCollectionSample.deps.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ObservableCollectionSample/bin/Debug/net6.0/ObservableCollectionSample.runtimeconfig.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ObservableCollectionSample/bin/Debug/net6.0/ObservableCollectionSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ObservableCollectionSample/bin/Debug/net6.0/ref/ObservableCollectionSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ObservableCollectionSample/bin/Debug/net6.0/ObservableCollectionSample.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ObservableCollectionSample/obj/Debug/net6.0/ObservableCollectionSample.csproj.AssemblyReference.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ObservableCollectionSample/obj/Debug/net6.0/ObservableCollectionSample.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ObservableCollectionSample/obj/Debug/net6.0/ObservableCollectionSample.AssemblyInfoInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ObservableCollectionSample/obj/Debug/net6.0/ObservableCollectionSample.AssemblyInfo.cs
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ObservableCollectionSample/obj/Debug/net6.0/ObservableCollectionSample.csproj.CoreCompileInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ObservableCollectionSample/obj/Debug/net6.0/ObservableCollectionSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ObservableCollectionSample/obj/Debug/net6.0/ref/ObservableCollectionSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ObservableCollectionSample/obj/Debug/net6.0/ObservableCollectionSample.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ObservableCollectionSample/obj/Debug/net6.0/ObservableCollectionSample.genruntimeconfig.cache

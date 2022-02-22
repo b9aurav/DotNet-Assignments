@@ -1,0 +1,15 @@
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/QueueSample/bin/Debug/net6.0/QueueSample
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/QueueSample/bin/Debug/net6.0/QueueSample.deps.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/QueueSample/bin/Debug/net6.0/QueueSample.runtimeconfig.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/QueueSample/bin/Debug/net6.0/QueueSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/QueueSample/bin/Debug/net6.0/ref/QueueSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/QueueSample/bin/Debug/net6.0/QueueSample.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/QueueSample/obj/Debug/net6.0/QueueSample.csproj.AssemblyReference.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/QueueSample/obj/Debug/net6.0/QueueSample.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/QueueSample/obj/Debug/net6.0/QueueSample.AssemblyInfoInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/QueueSample/obj/Debug/net6.0/QueueSample.AssemblyInfo.cs
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/QueueSample/obj/Debug/net6.0/QueueSample.csproj.CoreCompileInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/QueueSample/obj/Debug/net6.0/QueueSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/QueueSample/obj/Debug/net6.0/ref/QueueSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/QueueSample/obj/Debug/net6.0/QueueSample.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/QueueSample/obj/Debug/net6.0/QueueSample.genruntimeconfig.cache

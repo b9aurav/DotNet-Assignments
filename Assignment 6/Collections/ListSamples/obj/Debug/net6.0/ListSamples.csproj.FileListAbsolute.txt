@@ -1,0 +1,15 @@
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ListSamples/bin/Debug/net6.0/ListSamples
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ListSamples/bin/Debug/net6.0/ListSamples.deps.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ListSamples/bin/Debug/net6.0/ListSamples.runtimeconfig.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ListSamples/bin/Debug/net6.0/ListSamples.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ListSamples/bin/Debug/net6.0/ref/ListSamples.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ListSamples/bin/Debug/net6.0/ListSamples.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ListSamples/obj/Debug/net6.0/ListSamples.csproj.AssemblyReference.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ListSamples/obj/Debug/net6.0/ListSamples.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ListSamples/obj/Debug/net6.0/ListSamples.AssemblyInfoInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ListSamples/obj/Debug/net6.0/ListSamples.AssemblyInfo.cs
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ListSamples/obj/Debug/net6.0/ListSamples.csproj.CoreCompileInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ListSamples/obj/Debug/net6.0/ListSamples.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ListSamples/obj/Debug/net6.0/ref/ListSamples.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ListSamples/obj/Debug/net6.0/ListSamples.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/ListSamples/obj/Debug/net6.0/ListSamples.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LookupSample/bin/Debug/net6.0/LookupSample
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LookupSample/bin/Debug/net6.0/LookupSample.deps.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LookupSample/bin/Debug/net6.0/LookupSample.runtimeconfig.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LookupSample/bin/Debug/net6.0/LookupSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LookupSample/bin/Debug/net6.0/ref/LookupSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LookupSample/bin/Debug/net6.0/LookupSample.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LookupSample/obj/Debug/net6.0/LookupSample.csproj.AssemblyReference.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LookupSample/obj/Debug/net6.0/LookupSample.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LookupSample/obj/Debug/net6.0/LookupSample.AssemblyInfoInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LookupSample/obj/Debug/net6.0/LookupSample.AssemblyInfo.cs
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LookupSample/obj/Debug/net6.0/LookupSample.csproj.CoreCompileInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LookupSample/obj/Debug/net6.0/LookupSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LookupSample/obj/Debug/net6.0/ref/LookupSample.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LookupSample/obj/Debug/net6.0/LookupSample.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Collections/LookupSample/obj/Debug/net6.0/LookupSample.genruntimeconfig.cache
