@@ -1,0 +1,15 @@
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Delegates & Generic Methods/Generic Methods/obj/Debug/net6.0/Generic Methods.csproj.AssemblyReference.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Delegates & Generic Methods/Generic Methods/obj/Debug/net6.0/Generic Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Delegates & Generic Methods/Generic Methods/obj/Debug/net6.0/Generic Methods.AssemblyInfoInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Delegates & Generic Methods/Generic Methods/obj/Debug/net6.0/Generic Methods.AssemblyInfo.cs
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Delegates & Generic Methods/Generic Methods/obj/Debug/net6.0/Generic Methods.csproj.CoreCompileInputs.cache
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Delegates & Generic Methods/Generic Methods/bin/Debug/net6.0/Generic Methods
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Delegates & Generic Methods/Generic Methods/bin/Debug/net6.0/Generic Methods.deps.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Delegates & Generic Methods/Generic Methods/bin/Debug/net6.0/Generic Methods.runtimeconfig.json
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Delegates & Generic Methods/Generic Methods/bin/Debug/net6.0/Generic Methods.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Delegates & Generic Methods/Generic Methods/bin/Debug/net6.0/ref/Generic Methods.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Delegates & Generic Methods/Generic Methods/bin/Debug/net6.0/Generic Methods.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Delegates & Generic Methods/Generic Methods/obj/Debug/net6.0/Generic Methods.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Delegates & Generic Methods/Generic Methods/obj/Debug/net6.0/ref/Generic Methods.dll
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Delegates & Generic Methods/Generic Methods/obj/Debug/net6.0/Generic Methods.pdb
+/home/gaurav/Documents/Practicals/DotNet/Assignment 6/Delegates & Generic Methods/Generic Methods/obj/Debug/net6.0/Generic Methods.genruntimeconfig.cache
