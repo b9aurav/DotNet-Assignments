@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Gaurav\Practical\obj\Debug\net6.0\Practical.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Gaurav\Practical\obj\Debug\net6.0\Practical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Gaurav\Practical\obj\Debug\net6.0\Practical.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Gaurav\Practical\obj\Debug\net6.0\Practical.AssemblyInfo.cs
+C:\Users\student\Desktop\Gaurav\Practical\obj\Debug\net6.0\Practical.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Gaurav\Practical\bin\Debug\net6.0\Practical.exe
+C:\Users\student\Desktop\Gaurav\Practical\bin\Debug\net6.0\Practical.deps.json
+C:\Users\student\Desktop\Gaurav\Practical\bin\Debug\net6.0\Practical.runtimeconfig.json
+C:\Users\student\Desktop\Gaurav\Practical\bin\Debug\net6.0\Practical.dll
+C:\Users\student\Desktop\Gaurav\Practical\bin\Debug\net6.0\Practical.pdb
+C:\Users\student\Desktop\Gaurav\Practical\obj\Debug\net6.0\Practical.dll
+C:\Users\student\Desktop\Gaurav\Practical\obj\Debug\net6.0\refint\Practical.dll
+C:\Users\student\Desktop\Gaurav\Practical\obj\Debug\net6.0\Practical.pdb
+C:\Users\student\Desktop\Gaurav\Practical\obj\Debug\net6.0\Practical.genruntimeconfig.cache
+C:\Users\student\Desktop\Gaurav\Practical\obj\Debug\net6.0\ref\Practical.dll
