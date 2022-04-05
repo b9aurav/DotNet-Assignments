@@ -38,6 +38,41 @@ namespace MVC_Practical.Controllers
             return RedirectToAction("Index");
         }
 
-       
+         public IActionResult Delete(int teacherid) {
+            var teacherObj = _db.Teacher.Find(teacherid);
+            return View(teacherObj);
+        }
+
+
+        [HttpPost]
+        public IActionResult DeletePost(int id) {
+            var teacherObj = _db.Teacher.Find(id);
+
+            if (ModelState.IsValid)
+            {
+                _db.Teacher.Remove(teacherObj);
+                _db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View(teacherObj);
+        }
+
+         public IActionResult Create() {
+            return View();
+        }
+
+
+        [HttpPost]
+        public IActionResult Create([Bind("Name,joinDate,birthDate")] Student studobj) {
+            if (ModelState.IsValid)
+            {
+                _db.Student.Add(studobj);
+                _db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+
+            return View(studobj);
+        }
+
     }
 }
